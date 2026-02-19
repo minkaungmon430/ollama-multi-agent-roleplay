@@ -1,12 +1,5 @@
-Step-by-step: What to do right now on GitHub web
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Add README.md (if you haven't already)
-On your repo page → click "Add file" → "Create new file"
-Name: README.md
-Paste this content (you can edit later):
-
-
-Markdown# Ollama Multi-Agent Roleplay
 
 Offline multi-agent debate simulator using **Ollama** + local LLMs (Llama 3.2 example).
 
